@@ -30,7 +30,7 @@
     "@ledgerhq/errors": "^5.49.0",
     "@ledgerhq/hw-transport": "^5.49.0",
     "@ledgerhq/logs": "^5.49.0",
-    "node-hid": "2.1.1"
+    "node-hid": "2.1.2"
   },
   "devDependencies": {
     "flow-bin": "^0.148.0"
